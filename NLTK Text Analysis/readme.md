@@ -41,7 +41,7 @@ This task filters and sorts words from text7 that start with the letter 'T'.
 ## Task 5: Frequency Visualization
 This task counts and visualizes the frequency of 4-letter words in text5 using Seaborn and Matplotlib.
 
-![Frequency Visualization]('NLTK Text Analysis/NLP01.png')
+![Frequency Visualization](https://github.com/ShwethaAjay/NLP_MiniProjects/blob/main/NLTK%20Text%20Analysis/NLP01.png)
 
 ## Task 6: Lowercase Letters
 This task prints all lowercase letters from text6.
